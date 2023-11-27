@@ -1,0 +1,71 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = HackatonClientPortalChallenge
+build_property.RootNamespace = HackatonClientPortalChallenge
+build_property.ProjectDir = /home/axel/dev/HackatonClientPortalChallenge/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/axel/dev/HackatonClientPortalChallenge
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/axel/dev/HackatonClientPortalChallenge/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/axel/dev/HackatonClientPortalChallenge/Layout/Logo.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L0xvZ28ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/axel/dev/HackatonClientPortalChallenge/Layout/Navbar.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdmJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/axel/dev/HackatonClientPortalChallenge/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/axel/dev/HackatonClientPortalChallenge/Pages/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGFzaGJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/axel/dev/HackatonClientPortalChallenge/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/axel/dev/HackatonClientPortalChallenge/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/axel/dev/HackatonClientPortalChallenge/Pages/Notifications.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTm90aWZpY2F0aW9ucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/axel/dev/HackatonClientPortalChallenge/Pages/Signup.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2lnbnVwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/axel/dev/HackatonClientPortalChallenge/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/axel/dev/HackatonClientPortalChallenge/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/axel/dev/HackatonClientPortalChallenge/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-l1ayl4pmof
